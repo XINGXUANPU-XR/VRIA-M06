@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: fb01f2438d0ccc944b88d7b12cd3a664
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: a5ddc33412297db418a6343b437fb7ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 04 - Default
+    second: {fileID: 2100000, guid: d992f2780af206848bfd3d211a999b67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08 - Default
+    second: {fileID: 2100000, guid: a5f21afa3d03f6b46a2209a1c42f9e76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 18 - Default
+    second: {fileID: 2100000, guid: 76d9351ba951e92409b8ebb922f94ab6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardBoardBoxSMat
+    second: {fileID: 2100000, guid: ee7b4ffab65289b4ba6d4f6fbc56edb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CardboardBoxL
+    second: {fileID: 2100000, guid: ee101eda050d6924aba9a5bc652f02bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FlagMat
+    second: {fileID: 2100000, guid: 0466357bf474f8241a09801efb035209, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floo Mat
+    second: {fileID: 2100000, guid: d7a5573b5771af64b930c5dd12b81d62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FlowContollerMat
+    second: {fileID: 2100000, guid: 81817f14de597e64096d80bf8fd2a027, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GeneratorMat
+    second: {fileID: 2100000, guid: fce4b4fa4eb57aa4c8e2e34bab2705a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HoloGlobIDMat
+    second: {fileID: 2100000, guid: 3e2488925b52b58448c4813942c201c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HoloGlobeMat
+    second: {fileID: 2100000, guid: 65d24b44366385840bb028e7fcbf71b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HyperPodMat
+    second: {fileID: 2100000, guid: 5abebd60509fc4c4490f0d53e2436690, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HyperWarp01Mat
+    second: {fileID: 2100000, guid: 05be9f753246b4e4bb6e0d29a2fb88a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HyperWarp02Mat
+    second: {fileID: 2100000, guid: 334294c2befb02b40a5a96df1e5cb8fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MapDeskMat
+    second: {fileID: 2100000, guid: 06c245bca613fd44f9d6b12c23cc05ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #69
+    second: {fileID: 2100000, guid: e3dfd21e1aaa2714ba2b840ef3e05b17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #72
+    second: {fileID: 2100000, guid: 4f578abe01fa4bd408d9d84c03e4d165, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #82
+    second: {fileID: 2100000, guid: a1521101bf87cc041858a0b98ed0a8ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal Box
+    second: {fileID: 2100000, guid: 34e245abcdbd8e446b9b94521e81c695, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OilBarrelMat
+    second: {fileID: 2100000, guid: bad48ff8caf6d884b8786e885735717b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PowerCellMat
+    second: {fileID: 2100000, guid: 1ebc95f024a9d984c9afcbeeb01a739f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof Mat
+    second: {fileID: 2100000, guid: 2a4cb3108a5c2fd4c9f6f67f9392e49b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SGBaseMat
+    second: {fileID: 2100000, guid: e457b13196f5b154abd4697ff554b5f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SGateStrurt Mat
+    second: {fileID: 2100000, guid: c7c7f0a4e63a27e4d80d821eb34a5347, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SGateSupportMap
+    second: {fileID: 2100000, guid: 60187bdc11749a74aa34f2e6d450a510, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SiFiMedicDesk_Mat
+    second: {fileID: 2100000, guid: 49820bf267f1dc944bb3cc849da91c71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StandingWStatMat
+    second: {fileID: 2100000, guid: ad7fd33647ef7e2429788f2c2700293e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StargateMat
+    second: {fileID: 2100000, guid: f57cd7ae719925b44a1022de3f515e8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vines Large_Mat
+    second: {fileID: 2100000, guid: 306c7241259bfd4489c7cbf4905e5719, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VinesSmall_Mat
+    second: {fileID: 2100000, guid: 6f5c48a14bcf83942b0f21104a2d2869, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WareHouseWallsMat
+    second: {fileID: 2100000, guid: 3459705f24931df458e275727c94bb7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WaterTankMat
+    second: {fileID: 2100000, guid: 434ea383e96bce94fb7e208de253d7e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WorkstationVewMat
+    second: {fileID: 2100000, guid: 72f8c8145f15ee646ae1f3ba5a019384, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 146113703
+    second: {fileID: 2800000, guid: 5d09dd7fa3f908c46a2816ff7a210336, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Base_Diff
+    second: {fileID: 2800000, guid: 9017ec2d9e809d14eb8f45d0152e4e35, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BoxLarge_Diff
+    second: {fileID: 2800000, guid: 12f6591ed005aa74aaf6314d3a8cb1cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Box_Diff
+    second: {fileID: 2800000, guid: efdde90242d2db1439ff2a129c20063a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Celing Fan_Diff
+    second: {fileID: 2800000, guid: d2a6f6dde56b2e54d9d2b1ce9aa917f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Flag_Alpha
+    second: {fileID: 2800000, guid: e6b06ea2d4783464c99557e02902611c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Flag_diff
+    second: {fileID: 2800000, guid: dede8e8953ba22d4eacd9e8e677f3bda, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Floor_Diff
+    second: {fileID: 2800000, guid: 8de4ff9694662b841b64dd36f42e97ed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Floor_Normal
+    second: {fileID: 2800000, guid: bdd6c82b44c09ed4190abee3ca656db3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Leaves_Alpha
+    second: {fileID: 2800000, guid: 338cd2cee8e268743be27fe1ccf0b77e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Leaves_diff
+    second: {fileID: 2800000, guid: cbb0bdc0341a1f841953f6ed372c144a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MapDesk_Diff
+    second: {fileID: 2800000, guid: 1d06691141d060c48a0a741a49b7bf29, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal Box_Diff
+    second: {fileID: 2800000, guid: b33feefa29b0f8b4189341ce72c3c10a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OilBarrel_Diff
+    second: {fileID: 2800000, guid: a8966698af6e48743b75ac7466bcc464, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OilBarrel_Norm
+    second: {fileID: 2800000, guid: a6ba2d29e299c7849bcd96a5e8b0dbf8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OilBarrel_SpecL
+    second: {fileID: 2800000, guid: a881f37531bb1ee4c84aa3bad32f2893, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OilBarrel_SpedCol
+    second: {fileID: 2800000, guid: fc84e34470ce41342b2940cfc3cbf0b4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pod_Diff
+    second: {fileID: 2800000, guid: 800cc1a338c3bbb40975c8f7307dff28, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Portal Inner
+    second: {fileID: 2800000, guid: 2d6c28fca3c45a147b2d49af1c165bfb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Portal Inner_Alpha
+    second: {fileID: 2800000, guid: 31612ee12d7edc6449331626a55529a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Portal Outter_Alpha
+    second: {fileID: 2800000, guid: 4b51cdb4ec0154449b6d54c92f595d3c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Portal outter
+    second: {fileID: 2800000, guid: 306ebe2f203426f44bc3f551fe4df61e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Powecell_Diff
+    second: {fileID: 2800000, guid: d4707eee0f8715a4f8550b53415fd894, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Powecell_Spec
+    second: {fileID: 2800000, guid: 314288f5dcc350d43aa084c1369c573b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Powecell_SpecCol
+    second: {fileID: 2800000, guid: 86c933ffe80e4924cafdb76cbb91c02d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PowerCell_Diff
+    second: {fileID: 2800000, guid: 6d009943cb8cdfd4c94cb7ab9ae2b656, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ring Support Strut_Diff
+    second: {fileID: 2800000, guid: 3422352a447f64e40a7aa8db34afe96c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Roof_Diff
+    second: {fileID: 2800000, guid: 3acbf587a0458374088b495dd5098605, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Roof_Normal
+    second: {fileID: 2800000, guid: 17cdf79f443521c4dbe639e6cb4b08ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Si Fi Desk_Alpha
+    second: {fileID: 2800000, guid: c6f6590f3bd1e2444a33f3ca18cf341a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SiFiDesk_Diff
+    second: {fileID: 2800000, guid: d9b35dbbab3e09b478b1a4f498848772, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SiFiDesk_Glow
+    second: {fileID: 2800000, guid: e8c41268c8d43bd408f3a3170ebfb0be, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SiFiDesk_Spec
+    second: {fileID: 2800000, guid: 8e7b8bde93d176f49aafc9722fa16268, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: SiFiDesk_SpecCol
+    second: {fileID: 2800000, guid: 756a75048c655f74cbf874f5f3e37aa0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Stargate_Portal_Diff
+    second: {fileID: 2800000, guid: 01e1aa6598d5243448548c954ce81bb7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Strut support Base_Diff
+    second: {fileID: 2800000, guid: f28f42363cb0c9d48ad9da0a778a7aa4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Globe_Alpha
+    second: {fileID: 2800000, guid: 14fb1e24676e08e43bac9069601218a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Globe_Diff
+    second: {fileID: 2800000, guid: 9194bcb503d1a8e49b72a100fb9a13dd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: URH
+    second: {fileID: 2800000, guid: 1cd1f5f4e2daf0748bedb6792786b4cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WareHouseWalls_Diff
+    second: {fileID: 2800000, guid: a58fad330f06cbe42bd91cb9d4e14316, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Water Chamber_Diff
+    second: {fileID: 2800000, guid: 62377002216bbc74a9c15b8ba20fbe26, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Water Chamber_Glow
+    second: {fileID: 2800000, guid: ef53277c5b1907a40b3a6e084ecc6c04, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Water Chamber_Spec
+    second: {fileID: 2800000, guid: 84fb00e8d1ba8e14fb0a1a0d5e86885d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Water Chamber_SpecC
+    second: {fileID: 2800000, guid: e2ed79ff4dc371a429a3f6ed12cdaca8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WoodenBox_Diff
+    second: {fileID: 2800000, guid: 7fe45a07c1d510d4bbcbd8c2c21af869, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Workstation_Alpha
+    second: {fileID: 2800000, guid: 2eeb102efb4dcc74c84843455a0b8856, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Workstation_Alpha 2
+    second: {fileID: 2800000, guid: a927316a58d509246ae8ffb64d36409c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Workstation_Diff
+    second: {fileID: 2800000, guid: a1a235dd463e7c94b8070064de49ef8f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Workstation_Glow2
+    second: {fileID: 2800000, guid: 4523aee54391d584cafe6c6ecdd2505a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Workstation_Spec
+    second: {fileID: 2800000, guid: f4243b31f87139a4eba70a9547a80b64, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Workstation_Spec Col
+    second: {fileID: 2800000, guid: 0de94ca4f00570d43964edb8bd36b793, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Workstation_SpecCol
+    second: {fileID: 2800000, guid: 616738c489ecce542b5bdee9e1a369f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Workstation_SpecLev
+    second: {fileID: 2800000, guid: efc18e577bacbeb41802501dbfe70b72, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Workststion Diff
+    second: {fileID: 2800000, guid: f7413b7e8528d464d8b6c32c26fbc3d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: vines
+    second: {fileID: 2800000, guid: d2be74ae740aae244a8d183070c8f2fe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: vines Alpha
+    second: {fileID: 2800000, guid: 1738f2b52b0f25849993e7103aa780ee, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
